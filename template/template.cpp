@@ -7,6 +7,7 @@ categories:
 *******************************************/
 
 /*@info_submission
+status: {AC, WA, PE, CE, TL, ML}
 time: 
 best: 
 rank: 
@@ -37,6 +38,8 @@ tries:
 #include <cmath> //abs, atan...
 #include <cstring> //memset
 #include <string>
+
+using namespace std;
 
 typedef long long ll;
 typedef pair<int,int> ii;
